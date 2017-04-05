@@ -1,0 +1,37 @@
+<html>
+
+<body style="background-color:black;">
+
+<p align="center">
+
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/WopiFrame.aspx?docid=03e424a417b8b424e956887b8d3424d0c&authkey=AQbwxm29bI4YnOaSqXGXHQo&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&ActiveCell='Good%20Condition'!A1&wdDownloadButton=True&wdHideSheetTabs=False&wdAllowInteractivity=True"></iframe>
+
+<!--
+HOW TO MAKE EMBED WORK:
+Click Get Link for your document. Ensure that Share settings are set to "Anyone with this link can edit this item."
+Copy the link and paste into iframe.
+DELETE "guestaccess" in link and replace with WopiFrame.
+Check that the document is referenced with a docid, and NOT sourcedoc.
+Add parameters. Done!
+
+This example has a slightly different docid from the above, but also works. Both reference "EPA Excel Dashboard - Editable"
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/WopiFrame.aspx?docid=13e424a417b8b424e956887b8d3424d0c&authkey=Aflk8ej24EpHosFG92j5Xhw&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&ActiveCell='Good%20Condition'!A1&wdDownloadButton=True&wdHideSheetTabs=False&wdAllowInteractivity=True"></iframe>
+
+WopiFrame, Sourcedoc
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/WopiFrame.aspx?sourcedoc={7d3f9adc-25d3-4c07-b736-20c56e1125a4}&authkey=AQbwxm29bI4YnOaSqXGXHQo&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdHideSheetTabs=False"></iframe>
+
+Guest Access, docid
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/guestaccess.aspx?docid=03e424a417b8b424e956887b8d3424d0c&authkey=AQbwxm29bI4YnOaSqXGXHQo&action=embedview&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdHideSheetTabs=False"></iframe>
+
+WopiFrame, Sourcedoc
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/WopiFrame.aspx?sourcedoc={3e424a41-7b8b-424e-9568-87b8d3424d0c}&action=embedview&AllowTyping=True&ActiveCell='Good%20Condition'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True"></iframe>
+
+WopiFrame, Sourcedoc
+<iframe width="1800" height="850" frameborder="0" scrolling="no" src="https://appriver3651017602-my.sharepoint.com/personal/anthea_crowinsight_com/_layouts/15/WopiFrame.aspx?sourcedoc={3e424a41-7b8b-424e-9568-87b8d3424d0c}&action=embedview&AllowTyping=True&ActiveCell='Good%20Condition'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True"></iframe>
+-->
+
+</p>
+
+</body>
+
+</html>
